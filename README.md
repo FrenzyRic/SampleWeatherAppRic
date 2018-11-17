@@ -1,5 +1,4 @@
 # SampleWeatherAppRic
-OpenWeatherMap Api
 
 Sample Weather Application
 
